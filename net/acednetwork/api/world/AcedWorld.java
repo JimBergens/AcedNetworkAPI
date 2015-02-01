@@ -1,4 +1,4 @@
-package net.acednetwork.api;
+package net.acednetwork.api.world;
 
 
 public class AcedWorld {
